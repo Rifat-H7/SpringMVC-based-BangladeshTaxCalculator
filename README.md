@@ -1,5 +1,12 @@
 # SpringMVC-based-BangladeshTaxCalculator
-This project is inspired from RongdhonuStudio's Income Tax Calculator Bangladesh
+This project is inspired from RongdhonuStudio's Income Tax Calculator Bangladesh https://rongdhonustudio.com/TaxCalculator.html
+
+Live video:
+
+
+
+https://github.com/Rifat-H7/SpringMVC-based-BangladeshTaxCalculator/assets/99504215/92b27bff-65a1-42ba-ae09-fcba3e5e3e8a
+
 
 How to run this project:
 1. Clone the repository
